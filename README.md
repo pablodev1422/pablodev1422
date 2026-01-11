@@ -1,48 +1,108 @@
-# 👋 ¡Hola! Soy Pablo González Pérez
+<div align="center">
+
+# ¡Hola, soy Pablo González! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+**En busca de nuevos desafíos | Siempre con ganas de aprender**
 
 ### 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-Estoy en pleno proceso de aprendizaje, explorando el mundo del desarrollo de software y apasionado por encontrar soluciones tecnológicas a problemas del día a día. Mi enfoque es "aprender haciendo".
+*Explorando el mundo del software y apasionado por solucionar problemas reales. Mi enfoque: **"aprender haciendo"**.*
 
 ---
 
+</div>
+
 ## 🚀 Sobre mí
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200">
+
 *   🌱 Actualmente cursando **DAM**, consolidando las bases de la programación.
 *   💻 Recientemente acepté el reto de ayudar a una empresa real, desarrollando un sistema de **microservicios** para conectar su tienda Shopify y Amazon con su logística. 
 *   🧩 Me encantan los retos: no lo sé todo, pero me encanta investigar hasta encontrar la solución.
+
+<br />
+
 ---
 
 ## 🛠️ Tecnologías que estoy explorando
-Estas son las herramientas con las que he trabajado en mis proyectos y retos de aprendizaje:
 
-### Backend & Bases de Datos
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### **Core Development**
+<br />
 
-### Frontend, IA & Automatización
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=java" height="50" />
+      <br /><b>Java</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=spring" height="50" />
+      <br /><b>Spring Boot</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="50" />
+      <br /><b>Android Studio</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+      <br /><b>MySQL</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+      <br /><b>MongoDB</b>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### **Tools & Infrastructure**
+<br />
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=git" height="50" />
+      <br /><b>Git</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=docker" height="50" />
+      <br /><b>Docker</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/n8n-color.png" height="50" />
+      <br /><b>n8n</b>
+    </td>
+    <td align="center" width="140px">
+      <img src="https://skillicons.dev/icons?i=gcp" height="50" />
+      <br /><b>Google AI Studio</b>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+> También tengo nociones de **Python**, **React** y **Node.js**, las cuales sigo explorando.
+
+<br />
+<br />
 
 ---
 
-## 🎯 Mis próximos retos de aprendizaje
-Aunque el tiempo es limitado, siempre intento guardar un espacio para seguir creciendo:
-1.  🔐 **Seguridad:** Aprender los fundamentos de **Spring Security**.
-2.  🤖 **IA & Agentes:** Explorar la implementación de servidores **MCP (Model Context Protocol)** para conectar IAs con datos reales.
-3.  📦 **Logística:** Integrar **Amazon SP-API** y servicios como **Nacex**.
+
+## 🎯 Mis próximos retos
+1.  🔐 **Seguridad:** Fundamentos de **Spring Security**.
+2.  🤖 **IA & Agentes:** Servidores **MCP** para conectar IAs con datos reales.
+3.  📦 **Logística:** Integración avanzada con **Amazon SP-API**.
 
 ---
 
 ## 📫 Contacto & Colaboración
-Si tienes alguna idea, sugerencia o simplemente quieres charlar sobre tecnología, ¡encantado de conectar!
+*¿Quieres hablar sobre algún proyecto o simplemente charla?*
 
-*   📧 **Email:** pablodev1422@gmail.com
-*   💼 **LinkedIn:** [pablo-gonzalez-perez](https://www.linkedin.com/in/pablo-gonzalez-perez)
+*   📧 <a href="mailto:pablodev1422@gmail.com">**Email:**</a> `pablodev1422@gmail.com`
+*   💼 <a href="https://www.linkedin.com/in/pablo-gonzalez-perez">**LinkedIn:**</a> `pablo-gonzalez-perez`
 
----
-*“No se trata de saberlo todo, sino de no dejar de aprender nunca.”*
+<br>
+
+<div align="center">
+  <b>¡Gracias por pasarte por mi perfil! ✌️</b>
+</div>
