@@ -5,6 +5,7 @@
 **En busca de nuevos desafíos | Siempre con ganas de aprender**
 
 ### 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+
 *Explorando el mundo del software y apasionado por solucionar problemas reales. Mi enfoque: **"aprender haciendo"**.*
 
 ---
@@ -12,19 +13,23 @@
 </div>
 
 ## 🚀 Sobre mí
+
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200">
 
 *   🌱 Actualmente cursando **DAM**, consolidando las bases de la programación.
-*   💻 Recientemente acepté el reto de ayudar a una empresa real, desarrollando un sistema de **microservicios** para conectar su tienda Shopify y Amazon con su logística. 
+*   💻 He tenido la oportunidad de trabajar con empresas reales, desarrollando soluciones como **microservicios** para conectar tiendas de Shopify y Amazon con sistemas logísticos, y sitios web completos desplegados en **Vercel**.
+*   🎯 Mi especialidad es el **back-end**, aunque también tengo experiencia en **front-end**. Lo que realmente me apasiona es construir arquitecturas robustas y resolver problemas complejos.
 *   🧩 Me encantan los retos: no lo sé todo, pero me encanta investigar hasta encontrar la solución.
+*   📚 Nunca descarto aprender nada nuevo. Siempre estoy formándome y explorando nuevas tecnologías.
 
 <br />
 
 ---
 
-## 🛠️ Tecnologías que estoy explorando
+## 🛠️ Tecnologías y herramientas que he utilizado
 
-### **Core Development**
+### **Backend (Mi especialidad)**
+
 <br />
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -38,8 +43,8 @@
       <br /><b>Spring Boot</b>
     </td>
     <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=androidstudio" height="50" />
-      <br /><b>Android Studio</b>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+      <br /><b>Node.js</b>
     </td>
     <td align="center" width="120px">
       <img src="https://skillicons.dev/icons?i=mysql" height="50" />
@@ -54,7 +59,31 @@
 
 <br />
 
+### **Frontend & Mobile**
+
+<br />
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=react" height="50" />
+      <br /><b>React</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="50" />
+      <br /><b>Android Studio</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=html" height="50" />
+      <br /><b>HTML/CSS</b>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ### **Tools & Infrastructure**
+
 <br />
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -66,6 +95,10 @@
     <td align="center" width="120px">
       <img src="https://skillicons.dev/icons?i=docker" height="50" />
       <br /><b>Docker</b>
+    </td>
+    <td align="center" width="120px">
+      <img src="https://skillicons.dev/icons?i=vercel" height="50" />
+      <br /><b>Vercel</b>
     </td>
     <td align="center" width="120px">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/n8n-color.png" height="50" />
@@ -80,23 +113,16 @@
 
 <br />
 
-> También tengo nociones de **Python**, **React** y **Node.js**, las cuales sigo explorando.
+> También tengo conocimientos en **Python** y continúo expandiendo mi stack de tecnologías.
 
 <br />
 <br />
-
----
-
-
-## 🎯 Mis próximos retos
-1.  🔐 **Seguridad:** Fundamentos de **Spring Security**.
-2.  🤖 **IA & Agentes:** Servidores **MCP** para conectar IAs con datos reales.
-3.  📦 **Logística:** Integración avanzada con **Amazon SP-API**.
 
 ---
 
 ## 📫 Contacto & Colaboración
-*¿Quieres hablar sobre algún proyecto o simplemente charla?*
+
+*¿Quieres hablar sobre algún proyecto o simplemente charlar?*
 
 *   📧 <a href="mailto:pablodev1422@gmail.com">**Email:**</a> `pablodev1422@gmail.com`
 *   💼 <a href="https://www.linkedin.com/in/pablo-gonzalez-perez">**LinkedIn:**</a> `pablo-gonzalez-perez`
